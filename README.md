@@ -2,6 +2,10 @@
 
 Todo App to try out some of [Svelte's](https://svelte.dev) features, including:
 
+- Reactivity
+- Props
+- Events
+- Bindings
 - Transitions
 - Store & Custom Store
 
